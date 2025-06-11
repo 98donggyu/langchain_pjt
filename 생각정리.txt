@@ -1,0 +1,12 @@
+01.시스템 프롬프트.ipynb
+02.데이터수집.ipynb
+stock_info.py 작성
+03.사용자프롬프트작성.ipynb
+report_service.py
+
+1단계 streamlit 앱 구현
+2단계 streamlit 틀 만들기
+
+04.검색인덱싱.ipynb 인덱싱하기
+
+main_app.py 목록 가져오기
