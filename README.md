@@ -17,3 +17,8 @@ pip install meilisearch
 - 마크다운
 pip install tabulate
 ```
+
+# 실행 방법
+```
+streamlit run main_app.py
+```
