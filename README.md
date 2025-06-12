@@ -3,7 +3,7 @@ langchain 프로젝트
 ```
 pip install -Uq python-dotenv
 pip install -U langchain 
-pip instlla -U langchain_community
+pip install -U langchain_community
 
 - openai 
 pip install -U langchain-openai
@@ -21,4 +21,10 @@ pip install tabulate
 # 실행 방법
 ```
 streamlit run main_app.py
+```
+
+# meilisearch
+```
+curl -L https://install.meilisearch.com | sh
+./meilisearch --master-key="aSampleMasterKey"
 ```
